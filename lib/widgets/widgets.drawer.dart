@@ -10,9 +10,9 @@ class MyDrawer extends StatelessWidget {
       child: Column(
         children: [
           MyDrawerHeader(),
-          DrawerItem(title: "Home", icon: Icon(Icons.home), route: "/",),
-          DrawerItem(title: "Counter", icon: Icon(Icons.home), route: "/counter",),
-          DrawerItem(title: "Settings", icon: Icon(Icons.home), route: "/settings",),
+          DrawerItem(title: "Home", icon: Icon(Icons.home), route: "/"),
+          DrawerItem(title: "Counter", icon: Icon(Icons.exposure_plus_1), route: "/counter"),
+          DrawerItem(title: "Settings", icon: Icon(Icons.settings), route: "/settings"),
         ],
       ),
     );

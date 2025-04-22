@@ -10,10 +10,10 @@ class MyDrawerHeader extends StatelessWidget {
         children: [
           CircleAvatar(
             radius: 50,
-            backgroundImage: AssetImage("images/profile.jpg"),),
+            backgroundImage: AssetImage("images/profile.jpeg"),),
           CircleAvatar(
             radius: 30,
-            backgroundImage: AssetImage("images/profile.jpg"),
+            backgroundImage: AssetImage("images/profile.jpeg"),
           )
         ],
       ),
