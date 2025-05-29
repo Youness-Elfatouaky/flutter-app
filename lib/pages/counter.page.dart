@@ -17,7 +17,7 @@ class _CounterPageState extends State<CounterPage> {
           style: TextStyle(
               color: Theme.of(context).indicatorColor),
         ),
-        backgroundColor: Colors.teal,
+        backgroundColor: const Color.fromARGB(255, 22, 224, 4),
       ),
       body: Center(
         child: Text("Counter = > ${counter}",

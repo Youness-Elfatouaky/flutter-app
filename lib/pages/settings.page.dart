@@ -12,7 +12,7 @@ class SettingsPage extends StatelessWidget {
           style: TextStyle(
               color: Theme.of(context).indicatorColor),
         ),
-        backgroundColor: Colors.teal,
+        backgroundColor: Theme.of(context).primaryColor,
       ),
       body: Center(
         child: Text("Settings",

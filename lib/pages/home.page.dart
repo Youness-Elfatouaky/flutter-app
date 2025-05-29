@@ -13,10 +13,10 @@ class HomePage extends StatelessWidget {
           style: TextStyle(
               color: Theme.of(context).indicatorColor),
         ),
-        backgroundColor: Colors.teal,
+        backgroundColor: Theme.of(context).primaryColor,
       ),
       body: Center(
-        child: Text("Home Page DWM",
+        child: Text("Hi 👋",
           style: TextStyle(fontSize: 24),
         ),
       ),

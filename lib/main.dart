@@ -25,9 +25,9 @@ class MainApp extends StatelessWidget {
         ),
         drawerTheme: DrawerThemeData(
           backgroundColor: Colors.white,
-          scrimColor: Colors.deepOrange
+          scrimColor: const Color.fromARGB(255, 5, 120, 228)
         ),
-        primaryColor: Colors.teal,
+        primaryColor: const Color.fromARGB(255, 5, 224, 5),
         indicatorColor: Colors.white,
         iconTheme: IconThemeData(
           color: Colors.white
