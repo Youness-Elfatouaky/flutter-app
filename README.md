@@ -17,25 +17,28 @@ This Flutter app is a hands-on project I built to strengthen my Flutter developm
 
 ### 🏠 Home Page
 
-<!-- Add Home Page image here -->
-
+![home](https://github.com/user-attachments/assets/0387f141-0f9e-4596-9a3d-cf2a38a376f2)
 ---
+
 
 ### 📋 Menu Page
 
-<!-- Add Menu Page image here -->
+![sidebar](https://github.com/user-attachments/assets/1a2b410c-2a17-42a5-8cb2-fefaea6313b9)
+
 
 ---
 
 ### 🔢 Counter Page
 
-<!-- Add Counter Page image here -->
+
+![counter](https://github.com/user-attachments/assets/77a0e4fc-ab8b-4ad4-be45-91d7dd936fd0)
 
 ---
 
 ### ⚙️ Settings Page *(New)*
 
 <!-- Add Settings Page image here -->
+![setings](https://github.com/user-attachments/assets/f810da75-86ca-4cc6-9f5d-0a505d899429)
 
 ---
 
